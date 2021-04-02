@@ -1,5 +1,5 @@
 ---
-layout: teaching
-title: Teaching
+layout: openPositions
+title: Open Positions
 ---
 
