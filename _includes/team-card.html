@@ -21,11 +21,11 @@
     <div class="content has-text-grey">
       <!---<h1 class="title has-text-black is-size-4">{{ project.name }}</h1>--->
       <h5>
-        {{ project.name | truncate: 200 | strip_html | strip_newlines | strip | escape }}.
-        <i>{{ project.role | truncate: 200 | strip_html | strip_newlines | strip | escape }}</i>
-        {{ project.title | truncate: 200 | strip_html | strip_newlines | strip | escape }}({{ project.number | truncate: 300 | strip_html | strip_newlines | strip | escape }}).
-        {{ project.webpage | truncate: 200 | strip_html | strip_newlines | strip | escape }}
-      </h5>      
+        {{ project.name | truncate: 200 | strip_html | strip_newlines | strip | escape }}. <br>
+        <i>{{ project.role | truncate: 200 | strip_html | strip_newlines | strip | escape }}</i><br>
+        {{ project.title | truncate: 200 | strip_html | strip_newlines | strip | escape }}({{ project.number | truncate: 300 | strip_html | strip_newlines | strip | escape }}).<br>
+        {{ project.webpage | truncate: 200 | strip_html | strip_newlines | strip | escape }}<br>
+      </h5>
     </div>
   </div>
 </a>
