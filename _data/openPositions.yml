@@ -7,7 +7,7 @@
 
 - name: PhD studentship B
   code:  
-  image: assets/images/tcd.gif
+  image: assets/images/tcd-min.jpeg
   description: PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
   location: September 2022
   link: "teachingMaterial/PO8051"
@@ -15,7 +15,7 @@
 - name: Postdoctoral Researcher
   code: 
   level: Undergraduate 
-  image: assets/images/tcd.gif
+  image: assets/images/tcd-min.jpeg
   description: Postdoc with focus on Machine Learning and/or forecasting
   location: January 2022
   link: "teachingMaterial/POU33011"
