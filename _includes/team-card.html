@@ -23,7 +23,7 @@
       <h5>
         {{ project.name  }}. <br><br>
         <i>{{ project.role | truncate: 800 | strip_html | strip_newlines | strip | escape }}</i><br><br>
-        {{ project.title | truncate: 800 | strip_html | strip_newlines | strip | escape }}.<br><br>
+        {{ project.title | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br><br>
         {{ project.webpage | truncate: 800 | strip_html | strip_newlines | strip | escape }}
       </h5>
     </div>
