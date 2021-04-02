@@ -11,15 +11,15 @@ title: Patterns of Conflict Emergence (PaCE)
 # Description of the Site
 description: ""
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/paceLogo.png #meta.jpg
-site-cv: /WhatATheme/assets/images/ercLogo.jpg #meta.jpg
+site-image: /WhatATheme/assets/images/agincourt.jpg #paceLogo.png
+site-cv: /WhatATheme/assets/images/agincourt.jpg #ercLogo.jpg
 # Keywords of the Site
 site-keywords: PaCE
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /WhatATheme/assets/images/paceLogo.png #meta.jpg
+heroimage: /WhatATheme/assets/images/agincourt.jpg #paceLogo.png
 #https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
