@@ -22,8 +22,8 @@
         <b>{{ project.name  }}</b> <br><br>
         </h4>
         <h5>
-        {{ project.role | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br><br>
-        {{ project.title | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br><br>
+        {{ project.role | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br>
+        {{ project.title | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br>
         {{ project.webpage | truncate: 800 | strip_html | strip_newlines | strip | escape }}
       </h5>
     </div>
