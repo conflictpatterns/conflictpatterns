@@ -18,9 +18,11 @@
 
   <div class="column has-text-left-desktop has-text-left-tablet">
     <div class="content has-text-grey">
-      <h5>
-        {{ project.name  }} <br><br>
-        <i>{{ project.role | truncate: 800 | strip_html | strip_newlines | strip | escape }}</i><br><br>
+      <h4>
+        <b>{{ project.name  }}</b> <br><br>
+        </h4>
+        <h5>
+        {{ project.role | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br><br>
         {{ project.title | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br><br>
         {{ project.webpage | truncate: 800 | strip_html | strip_newlines | strip | escape }}
       </h5>
