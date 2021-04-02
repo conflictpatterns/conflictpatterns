@@ -7,10 +7,10 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Patterns of Conflict Emergence (PaCE)
+title: PaCE
 subtitle: test
 # Description of the Site
-description: "test"
+description: "Patterns of Conflict Emergence"
 # URL of Image of the Site
 site-image: assets/images/agincourt.jpg #paceLogo.png
 site-cv: assets/images/agincourt.jpg #ercLogo.jpg
