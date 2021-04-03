@@ -11,8 +11,8 @@ title: PaCE
 # Description of the Site
 description: "Patterns of Conflict Emergence"
 # URL of Image of the Site
-site-image: assets/images/agincourt.jpg #paceLogo.png
-site-cv: assets/images/agincourt.jpg #ercLogo.jpg
+site-image: /WhatATheme/assets/images/agincourt.jpg #meta.jpg
+site-cv: /WhatATheme/assets/images/agincourt.jpg #meta.jpg
 # Keywords of the Site
 site-keywords: PaCE
 # URL for the Image of custom Favicon
