@@ -8,7 +8,6 @@ baseurl:
 
 # Title of the Site
 title: PaCE
-subtitle: test
 # Description of the Site
 description: "Patterns of Conflict Emergence"
 # URL of Image of the Site
@@ -45,7 +44,7 @@ google-analytics:
 #disqus-shortname: chadefaux
 
 # Name of the Author
-author-name: Thomas Chadefaux
+author-name: PaCE
 # URL for the Image of the Author
 author-image: assets/images/ercTransparent.png
 # 60 Words About the Author
