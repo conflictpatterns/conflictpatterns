@@ -6,7 +6,7 @@ title: PaCE
 
 # Patterns of Conflict Escalation (PaCE)
 
-<div float="center" width="500px">
+<div float="center" width="1000px">
   <img src="assets/images/ercTransparent.png" width="250" class = "center" float = 'center'/> 
   <img src="assets/images/ercLogo.jpg" width="250" class = "center" float = 'center' />
 </div>
