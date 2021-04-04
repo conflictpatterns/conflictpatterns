@@ -12,6 +12,14 @@ title: PaCE
   <img src="assets/images/Trinity_Main_Logo.jpeg" width="250" class = "right" float = 'right' />
 </div>
 
+<div style="width:830px; background-color:white; height:120px; overflow:auto;">
+		<div style="width: 2000px; height: 90px;">
+			<img src="assets/images/paceLogo.png" width="250" height=150/> 
+  <img src="assets/images/ercTransparent.png" width="250" height=150 />
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250" height=150/>
+		</div>
+	</div>
+
 ### What is PaCE?
 PaCE is an ERC-funded project that aims to uncover recurring temporal sequences in the run-up to war.
 
