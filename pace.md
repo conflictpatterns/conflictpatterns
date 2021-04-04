@@ -3,11 +3,22 @@ layout: page
 title: PaCE
 ---
 
+<html>
+<head>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+</head>
+<body>
 
-<div float="center" width="2000px" text-align="center">
-  <img src="assets/images/paceLogo.png" width="250" /> 
-  <img src="assets/images/ercTransparent.png" width="250" height="150" />
-  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250" />
+
+<div float="center" width="2000px">
+  <img src="assets/images/paceLogo.png" width="250" class='center'/> 
 </div>
 
 # Patterns of Conflict Escalation (PaCE)
@@ -44,3 +55,8 @@ conflict events.
 Summarize the core features of dangerous patterns into motifs—recurring patterns—that can help
 build new theories of conflict emergence and escalation. PaCE will build a repository of shapes—a
 grammar of patterns—to be used as the building blocks of new theories.
+
+<div float="center" width="2000px" text-align="center">
+  <img src="assets/images/ercTransparent.png" width="250" height="150" />
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250" />
+</div>
