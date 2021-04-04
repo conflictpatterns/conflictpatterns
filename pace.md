@@ -14,12 +14,13 @@ title: PaCE
 }
 </style>
 </head>
-<body>
+
 
 
 <div float="center" width="2000px">
   <img src="assets/images/paceLogo.png" width="125" class='center'/> 
 </div>
+</html>
 
 # Patterns of Conflict Escalation (PaCE)
 
