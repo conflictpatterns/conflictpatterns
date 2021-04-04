@@ -9,6 +9,7 @@ title: PaCE
 <div float="center" width="1000px">
   <img src="assets/images/paceLogo.png" width="250" class = "left" float = 'left'/> 
   <img src="assets/images/ercTransparent.png" width="250" class = "right" float = 'right' />
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250" class = "right" float = 'right' />
 </div>
 
 ### What is PaCE?
