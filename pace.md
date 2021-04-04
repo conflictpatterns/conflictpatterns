@@ -7,9 +7,9 @@ title: PaCE
 # Patterns of Conflict Escalation (PaCE)
 
 <div float="center" width="1000px">
-  <img src="assets/images/paceLogo.png" width="250" class = "left" float = 'left'/> 
-  <img src="assets/images/ercTransparent.png" width="250" height="150" class = "right" float = 'right' />
-  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250" class = "right" float = 'right' />
+  <img src="assets/images/paceLogo.png" width="250" /> 
+  <img src="assets/images/ercTransparent.png" width="250" height="150" />
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250" />
 </div>
 
 
