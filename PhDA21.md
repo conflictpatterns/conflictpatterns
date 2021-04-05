@@ -3,7 +3,7 @@ layout: page
 title:  PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
 ---
 
-Are there recurring patterns in the escalation and emergence of wars? The idea that history may repeat itself is old. But recent advances overcoming methodological and data barriers present an opportunity to identify these recurrences empirically and to examine whether these patterns can be classified to improve forecasts and inform theories of conflict. In this project, we will combine new methods and novel data on conflict from finance, diplomatic cables, and newspapers, to extract typical pre war motifs. Just as DNA sequencing has been critical to medical diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of conflict (more details [here](https://chadefaux.github.io/projects)).
+Are there recurring patterns in the escalation and emergence of wars? The idea that history may repeat itself is old. But recent advances overcoming methodological and data barriers present an opportunity to identify these recurrences empirically and to examine whether these patterns can be classified to improve forecasts and inform theories of conflict. In this project, we will combine new methods and novel data on conflict from finance, diplomatic cables, and newspapers, to extract typical pre war motifs. Just as DNA sequencing has been critical to medical diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of conflict (more details [here](https://conflictpatterns.com)).
 
 In this post, you will work in an exciting environment alongside a highly creative and motivated team, to acquire and analyse time series data from pre-conflict environments (both interstate and civil war), and apply recent machine learning techniques to forecasting the onset of these events.
 
@@ -14,15 +14,15 @@ In this post, you will work in an exciting environment alongside a highly creati
 
 The holder of the position is to pursue a project that uses machine-learning methods to forecast interstate and civil wars. In particular, the team member will, among other:
 
--   Acquire and process time series data from finance, diplomatic cables, and newspapers
--   Apply Machine Learning methods using Python/R
+-   Acquire and process time series data from finance, diplomatic cables, and newspapers 
+- Apply Machine Learning methods using Python/R 
+- Work on the classification of temporal patterns 
+- Contribute to the development of an early warning system for conflict 
 -   Contribute to the growth of the methodological and substantive expertise of the team
 -   Participate in the team's publications
 
 
 # Person Specification
-
-
 ## Qualifications
 
 A strong undergraduate degree or Masters in computer science (engineering, physics also welcome), political science, economics or a relevant field (e.g., first or upper second for Irish or UK applicants; GPA 3.3+ for US applicants).
@@ -31,7 +31,7 @@ A strong undergraduate degree or Masters in computer science (engineering, physi
 ## Knowledge & Experience
 
 -   Excellent knowledge of R and/or Python (highly desirable)
--   Background in econometrics (highly desirable)
+-   Background in statistics and/or econometrics (highly desirable)
 -   Knowledge of machine learning (desirable)
 -   Familiarity with Social Sciences (desirable)
 -   Familiarity with the development of statistical packages and deployment on github (desirable)
@@ -47,7 +47,7 @@ A strong undergraduate degree or Masters in computer science (engineering, physi
 
 # Supervision
 
-The studentship will be supervised by Professor [Thomas Chadefaux](http://www.thomaschadefaux.com). Students will be enrolled in the [Department of Political Science](https://www.tcd.ie/Political_Science/)  [PhD Programme](https://www.tcd.ie/Political_Science/postgraduate/phd-programme/) 
+The studentship will be supervised by Professor [Thomas Chadefaux](http://www.thomaschadefaux.com). Students will be enrolled in the [Department of Political Science](https://www.tcd.ie/Political_Science/)  [PhD Programme](https://www.tcd.ie/Political_Science/postgraduate/phd-programme/)  at [Trinity College Dublin](https://www.tcd.ie).
 
 
 # Funding
