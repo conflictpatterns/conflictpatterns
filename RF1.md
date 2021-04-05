@@ -51,7 +51,8 @@ Funds for conference travel (€2,000 per year) and computer resources will also
 
 # Application Procedure
 
-Interested candidates should send a cover letter together with a full CV to thomas.chadefaux@tcd.ie. Please use the subject line "PaCE application". Candidates may later be asked to submit three letters of recommendation. Complete applications received by June 1, 2023 will receive full consideration. After this date, applications will be considered depending on availability.
+Interested candidates should send a cover letter together with a full CV to [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] application). Please use the subject line "[PaCE] application". Candidates may later be asked to submit three letters of recommendation. Complete applications received by June 1, 2021 will receive full consideration. After this date, applications will be considered depending on availability.
 
-For any query, please contact: Professor Thomas Chadefaux [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie)
+For any query, please contact: Professor Thomas Chadefaux [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] application query)
+
 

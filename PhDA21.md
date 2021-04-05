@@ -65,7 +65,7 @@ Our group is located  in Trinity College, in the heart of Dublin. Trinity was fo
 
 # Application Procedure
 
-As a first step, candidates should submit to thomas.chadefaux@tcd.ie with the subject line "PHDA21":
+As a first step, candidates should submit to [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] application) with the subject line "[PaCE] application":
 
 -   a cover letter addressing why this project interests you and what you will bring to it. Be sure to outline your experience with statistics and computational methods.
 -   a full curriculum vitae
@@ -75,7 +75,7 @@ If requested, the candidate will then be asked to submit a [formal application t
 
 Selection will begin in April 2021 and the position will remain open until filled.
 
-​If you are a Chinese student and would like to apply to the scholarships from the China Scholarship Council please contact [Thomas](mailto:thomas.chadefaux@tcd.ie) before Jan 31, 2022.
+If you are a Chinese student and would like to apply to the scholarships from the China Scholarship Council please contact [Thomas](mailto:thomas.chadefaux@tcd.ie) before Jan 31, 2022.
 
 For any query, please contact: Professor Thomas Chadefaux [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie)
 

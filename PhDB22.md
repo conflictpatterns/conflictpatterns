@@ -66,7 +66,7 @@ Our group is located  in Trinity College, in the heart of Dublin. Trinity was fo
 
 # Application Procedure
 
-As a first step, candidates should submit to thomas.chadefaux@tcd.ie with the subject line "PHDA21":
+As a first step, candidates should submit to [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] application) with the subject line "[PaCE] application":
 
 -   a cover letter addressing why this project interests you and what you will bring to it. Be sure to outline your experience with statistics and computational methods.
 -   a full curriculum vitae
