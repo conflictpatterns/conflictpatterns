@@ -16,7 +16,7 @@ The holder of the position will contribute to a project that uses machine-learni
 
 In this post, you will work in an exciting environment alongside a highly creative and motivated team, to acquire and analyse time series data from pre-conflict environments (both interstate and civil war), and apply recent machine learning techniques to forecasting the onset of these events.
 
-The expected starting date of the position is **January 2022** (negotiable).
+The expected starting date of the position is **January 2023** (negotiable).
 
 
 
@@ -51,7 +51,7 @@ Funds for conference travel (€2,000 per year) and computer resources will also
 
 # Application Procedure
 
-Interested candidates should send a cover letter together with a full CV to [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] application). Please use the subject line "[PaCE] application". Candidates may later be asked to submit three letters of recommendation. Complete applications received by June 1, 2021 will receive full consideration. After this date, applications will be considered depending on availability.
+Interested candidates should send a cover letter together with a full CV to [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] application). Please use the subject line "[PaCE] application". Candidates may later be asked to submit three letters of recommendation. Complete applications received by June 1, 2022 will receive full consideration. After this date, applications will be considered depending on availability.
 
 For any query, please contact: Professor Thomas Chadefaux [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] application query)
 
