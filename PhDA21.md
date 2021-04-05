@@ -52,8 +52,8 @@ The studentship will be supervised by Professor [Thomas Chadefaux](http://www.th
 
 # Funding
 
-   This project is funded by the PaCE ERC Consolidator Grant.
-​
+This project is funded by the PaCE ERC Consolidator Grant 101002240 (2022-26) and is hosted at the Department of Political Science at Trinity College Dublin.
+
 
 
 # The Department of Political Science at Trinity College Dublin
