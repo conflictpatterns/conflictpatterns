@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PaCE" <br> Patterns of Conflict Escalation
+title: PaCE <br> Patterns of Conflict Escalation
 ---
 
 <html>
@@ -34,7 +34,7 @@ events rather than its raw values—and novel data on conflict from finance, dip
 newspapers, to extract typical pre-war motifs. 
 
 # Objectives
-## Identify patterns
+### Identify patterns
 Identify patterns in the pre-conflict actions using data on conflict events—from the onset of WWI
 to Hamas’s rocket launches—and in their perceptions using data from financial markets (the
 “crowd’s” perception), news articles (the “experts”), and diplomatic documents (the policy-makers).
@@ -42,19 +42,19 @@ This will allow us to evaluate the patterns of escalation over different timesca
 to the minute. The similarity between temporal sequences will be measured using algorithms which
 allow for flexible matching, such as Dynamic Time Warping.
 
-## Forecast
+### Forecast
 Evaluate the utility of these patterns to improve forecasts of conflict with both historical and live
 out-of-sample predictions. Our results, using shape-based classification methods, will be made public
 and evaluated in real time. Moreover, using new measures of complexity to distinguish regular,
 chaotic, and random behavior, I will measure possible fundamental limits to the predictability of
 conflict events.
 
-## Theory
+### Theory
 Summarize the core features of dangerous patterns into motifs—recurring patterns—that can help
 build new theories of conflict emergence and escalation. PaCE will build a repository of shapes—a
 grammar of patterns—to be used as the building blocks of new theories.
 
 <div float="center" width="2000px">
-  <img src="assets/images/ercTransparent.png" width="250px" class='center'/>
+  <img src="assets/images/ercTransparent.png" width="150px" class='center'/>
   <img src="assets/images/Trinity_Main_Logo.jpeg" width="250px" class='center'/>
 </div>
