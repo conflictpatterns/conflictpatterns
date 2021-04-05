@@ -17,6 +17,8 @@ subtitle: Patterns of Conflict Emergence
 </head>
 
 
+<h3><center>
+[PaCE is hiring!](http://www.conflictpatterns.com/openPositions)</center></h3>
 
 <div>
   <img src="assets/images/paceLogo.png" width="400px" class='center' align="right" /> 
@@ -60,9 +62,8 @@ grammar of patterns—to be used as the building blocks of new theories.
 PaCE is funded by ERC grant 101002240 and is hosted at the Department of Political Science at Trinity College Dublin. 
 
 
-# PaCE is hiring!
 
-Available [open positions in PaCE](http://www.conflictpatterns.com/openPositions)
+
 
 <div float="center" width="2000px">
   <img src="assets/images/ercTransparent.png" width="150px" class='center' align='center'/>
