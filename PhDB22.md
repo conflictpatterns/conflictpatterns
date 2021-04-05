@@ -70,13 +70,13 @@ As a first step, candidates should submit to [thomas.chadefaux@tcd.ie](mailto:th
 
 -   a cover letter addressing why this project interests you and what you will bring to it. Be sure to outline your experience with statistics and computational methods.
 -   a full curriculum vitae
--   links to any supporting material&#x2013;e.g. thesis, code repositories, preprints, articles in the media, etc.
+-   links to any supporting material;e.g. thesis, code repositories, preprints, articles in the media, etc.
 
 If requested, the candidate will then be asked to submit a [formal application to the PhD Programme](https://www.tcd.ie/Political_Science/postgraduate/phd-programme/admission/index.php).
 
-Selection will begin in April 2021 and the position will remain open until filled.
+Applications submitted by March 31, 2022 will receive full consideration. The position will remain open until filled.
 
-​If you are a Chinese student and would like to apply to the scholarships from the China Scholarship Council please contact [Thomas](mailto:thomas.chadefaux@tcd.ie) before Jan 31, 2022.
+If you are a Chinese student and would like to apply to the scholarships from the China Scholarship Council please contact [Thomas](mailto:thomas.chadefaux@tcd.ie) before Jan 31, 2022.
 
-For any query, please contact: Professor Thomas Chadefaux [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie)
+For any query, please contact: Professor Thomas Chadefaux [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie?subject=[PaCE] applicant query)
 
