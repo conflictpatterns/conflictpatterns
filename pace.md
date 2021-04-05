@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PaCE <br> Patterns of Conflict Escalation
+subtitle: bla
 ---
 
 <html>
