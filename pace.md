@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PaCE 
-subtitle: Patterns of Conflict Emergence
+
 ---
 
 <html>
@@ -16,9 +16,14 @@ subtitle: Patterns of Conflict Emergence
 </style>
 </head>
 
+<h2><center>
+Patterns of Conflict Emergence
+</center></h2>
 
 <h3><center>
-[PaCE is hiring!](http://www.conflictpatterns.com/openPositions)</center></h3>
+<a href='http://www.conflictpatterns.com/openPositions'>PaCE is hiring!
+</a>
+</center></h3>
 
 <div>
   <img src="assets/images/paceLogo.png" width="400px" class='center' align="right" /> 
