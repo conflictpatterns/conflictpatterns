@@ -8,7 +8,7 @@ Are there recurring patterns in the escalation and emergence of wars? The idea t
 In this post, you will work in an exciting environment alongside a highly creative and motivated team, to acquire and analyse time series data from pre-conflict environments (both interstate and civil war), and apply recent machine learning techniques to forecasting the onset of these events.
 
 # Expected start date
-September 2021
+September 2022
 
 # Standard Duties and Responsibilities
 
@@ -55,6 +55,7 @@ The studentship will be supervised by Professor [Thomas Chadefaux](http://www.th
 This project is funded by the PaCE ERC Consolidator Grant 101002240 (2022-26) and is hosted at the Department of Political Science at Trinity College Dublin.
 
 Students will receive an annual stipend of €18,500 for four years. Continuation on the PhD register  is conditional on the candidate's successful progression through the PhD requirements. The team member's stipend will be conditional on satisfactory performance in the team. 
+
 
 
 
