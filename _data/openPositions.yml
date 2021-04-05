@@ -19,30 +19,28 @@
   location: "Expected start date: September 2022"
   link: PhDB22
   
-
-  
-- name: Postdoctoral Researcher A
+- name: Postdoctoral Research position A
   code: 
   image: assets/images/tcd-min.jpeg
   description: Postdoc with focus on Machine Learning and/or forecasting
   location: "Expected start date: January 2022"
   link: PDA22
 
-- name: Postdoctoral Researcher B
+- name: Postdoctoral Research position B
   code: 
   image: assets/images/tcd-min.jpeg
   description: Postdoc with focus on Machine Learning and/or forecasting
   location: "Expected start date: January 2023"
   link: PDB23
 
-- name: Postdoctoral Researcher C
+- name: Postdoctoral Research position C
   code: 
   image: assets/images/tcd-min.jpeg
   description: Postdoc with focus on Machine Learning and/or forecasting
   location: "Expected start date: January 2024"
   link: PDC24
 
-- name: Postdoctoral Researcher D
+- name: Postdoctoral Research position D
   code: 
   image: assets/images/tcd-min.jpeg
   description: Postdoc with focus on Machine Learning and/or forecasting
