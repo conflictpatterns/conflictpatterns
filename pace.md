@@ -57,6 +57,6 @@ build new theories of conflict emergence and escalation. PaCE will build a repos
 grammar of patterns—to be used as the building blocks of new theories.
 
 <div float="center" width="2000px">
-  <img src="assets/images/ercTransparent.png" width="50px" height="50px" class='center'/>
-  <img src="assets/images/Trinity_Main_Logo.jpeg" width="50px" class='center'/>
+  <img src="assets/images/ercTransparent.png" width="150px" height="150px" class='center'/>
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="150px" class='center'/>
 </div>
