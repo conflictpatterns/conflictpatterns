@@ -17,7 +17,7 @@ title: PaCE
 
 
 <div>
-  <img src="assets/images/paceLogo.png" width="8px" class='center' /> 
+  <img src="assets/images/paceLogo.png" width="80px" class='center' /> 
 </div>
 </html>
 
