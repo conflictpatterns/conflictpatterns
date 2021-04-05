@@ -10,6 +10,7 @@ title: PaCE <br> Patterns of Conflict Escalation
   display: block;
   margin-left: auto;
   margin-right: auto;
+  Padding: 10px
 }
 </style>
 </head>
