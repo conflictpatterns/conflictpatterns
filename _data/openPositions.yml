@@ -1,16 +1,25 @@
+- name: Research Fellow
+  code: 
+  image: assets/images/tcd-min.jpeg
+  description: Research fellow with focus on Machine Learning and/or forecasting
+  location: "Expected start date: January 2022"
+  link: RF1
+  
 - name: PhD studentship A
   code:  
   image: assets/images/tcd-min.jpeg
   description: PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
-  location: September 2021
+  location: "Expected start date: September 2021"
   link: PhDA21
 
 - name: PhD studentship B
   code:  
   image: assets/images/tcd-min.jpeg
   description: PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
-  location: "Start date: September 2022"
+  location: "Expected start date: September 2022"
   link: PhDB22
+  
+
   
 - name: Postdoctoral Researcher A
   code: 
