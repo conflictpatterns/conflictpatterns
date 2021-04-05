@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {PaCE} <br> Patterns of Conflict Escalation
+title: {PaCE: Patterns of Conflict Escalation}
 ---
 
 <html>
