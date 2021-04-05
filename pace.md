@@ -17,7 +17,7 @@ title: PaCE <br> Patterns of Conflict Escalation
 
 
 <div>
-  <img src="assets/images/paceLogo.png" width="350px" class='center' align="left" /> 
+  <img src="assets/images/paceLogo.png" width="400px" class='center' align="right" /> 
 </div>
 </html>
 
@@ -58,6 +58,6 @@ grammar of patterns—to be used as the building blocks of new theories.
 PaCE is funded by ERC grant 101002240 and is hosted at the Department of Political Science at Trinity College Dublin. 
 
 <div float="center" width="2000px">
-  <img src="assets/images/ercTransparent.png" width="150px" class='center' align='right'/>
-  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250px" class='center' align='left'/>
+  <img src="assets/images/ercTransparent.png" width="150px" class='center' align='center'/>
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250px" class='center' align='center'/>
 </div>
