@@ -59,11 +59,12 @@ grammar of patterns—to be used as the building blocks of new theories.
 # Funding
 PaCE is funded by ERC grant 101002240 and is hosted at the Department of Political Science at Trinity College Dublin. 
 
-<div float="center" width="2000px">
-  <img src="assets/images/ercTransparent.png" width="150px" class='center' align='center'/>
-  <img src="assets/images/Trinity_Main_Logo.jpeg" width="300px" class='center' align='center'/>
-</div>
 
 # PaCE is hiring!
 
 Available [open positions in PaCE](http://www.conflictpatterns.com/openPositions)
+
+<div float="center" width="2000px">
+  <img src="assets/images/ercTransparent.png" width="150px" class='center' align='center'/>
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="300px" class='center' align='center'/>
+</div>
