@@ -17,7 +17,7 @@ title: "PaCE" <br> Patterns of Conflict Escalation
 
 
 <div>
-  <img src="assets/images/paceLogo.png" width="300px" class='center' /> 
+  <img src="assets/images/paceLogo.png" width="350px" class='center' align="right" /> 
 </div>
 </html>
 
