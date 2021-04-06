@@ -3,7 +3,7 @@ layout: page
 title:  Postdoc in Conflict Research with Focus on Forecasting and Machine Learning
 ---
 
-The holder of the position will contribute to a project that uses machine-learning methods to forecast interstate and civil wars (see [conflictpatterns.com](https://www.conflictpatterns.com)). The team member will, among other:
+The holder of the position will contribute to a project that uses machine-learning methods to forecast interstate and civil wars (see [conflictpatterns.com](http://www.conflictpatterns.com)). The team member will, among other:
 
 -   Acquire and process time series data from finance, diplomatic cables, and newspapers 
 - Apply Machine Learning methods using Python/R 

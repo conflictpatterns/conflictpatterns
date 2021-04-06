@@ -3,7 +3,7 @@ layout: page
 title:  PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
 ---
 
-Are there recurring patterns in the escalation and emergence of wars? The idea that history may repeat itself is old. But recent advances overcoming methodological and data barriers present an opportunity to identify these recurrences empirically and to examine whether these patterns can be classified to improve forecasts and inform theories of conflict. In this project, we will combine new methods and novel data on conflict from finance, diplomatic cables, and newspapers, to extract typical pre war motifs. Just as DNA sequencing has been critical to medical diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of conflict (more details [here](https://conflictpatterns.com)).
+Are there recurring patterns in the escalation and emergence of wars? The idea that history may repeat itself is old. But recent advances overcoming methodological and data barriers present an opportunity to identify these recurrences empirically and to examine whether these patterns can be classified to improve forecasts and inform theories of conflict. In this project, we will combine new methods and novel data on conflict from finance, diplomatic cables, and newspapers, to extract typical pre war motifs. Just as DNA sequencing has been critical to medical diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of conflict (more details [here](http://conflictpatterns.com)).
 
 In this post, you will work in an exciting environment alongside a highly creative and motivated team, to acquire and analyse time series data from pre-conflict environments (both interstate and civil war), and apply recent machine learning techniques to forecasting the onset of these events.
 
@@ -69,7 +69,7 @@ As a first step, candidates should submit to [thomas.chadefaux@tcd.ie](mailto:th
 
 -   a cover letter addressing why this project interests you and what you will bring to it. Be sure to outline your experience with statistics and computational methods.
 -   a full curriculum vitae
--   links to any supporting material&#x2013;e.g. thesis, code repositories, preprints, articles in the media, etc.
+-   links to any supporting material; e.g. thesis, code repositories, preprints, articles in the media, etc.
 
 If requested, the candidate will then be asked to submit a [formal application to the PhD Programme](https://www.tcd.ie/Political_Science/postgraduate/phd-programme/admission/index.php).
 
