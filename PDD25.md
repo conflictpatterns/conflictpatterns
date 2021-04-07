@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Postdoc in Conflict Research with Focus on Forecasting and Machine Learning
+title:  Research fellow (Postdoc) in Conflict Research with Focus on Forecasting and Machine Learning
 ---
 
 The holder of the position will contribute to a project that uses machine-learning methods to forecast interstate and civil wars (see [conflictpatterns.com](http://www.conflictpatterns.com)). The team member will, among other:
@@ -41,16 +41,12 @@ The successful applicant will be supervised by Professor [Thomas Chadefaux](http
 
 Our group is located  in Trinity College, in the heart of Dublin. Trinity was founded in 1592 and is ranked as Ireland’s No.1 University in the QS World University Ranking, THE World University Ranking and the Academic Ranking of World Universities. It is a member of the League of European Research Universities. The Department of Political Science consistently ranks number #1 in Ireland, in the top 20 in Europe and in the top 50 in the world (QS rankings).
 
-
 # Duration and salary
 This project is funded by  ERC Consolidator Grant PaCE (101002240) (2022-26) and is hosted at the Department of Political Science at Trinity College Dublin.
 
-The length of the contract is 1 year, with a possible renewal for an additional year. Successful applicants will be hired at a salary in line with their experience. Salaries of postdoctoral researchers follow the [Irish University Associations salary scale](https://www.iua.ie/for-researchers/researcher-salary-scales-career-framework/#), with an expected gross salary of €38,632 in the first year (Point 1 at Level 2) and one Point increment per year from thereafter. 
+We offer a Specified Purpose Contract (expected duration 3 years). Successful applicants will be hired at a salary in line with their experience. Salaries of postdoctoral researchers follow the [Irish University Associations salary scale](https://www.iua.ie/for-researchers/researcher-salary-scales-career-framework/#), with an expected gross salary of €38,632 in the first year and one point increment per year from thereafter. 
 
 Funds for conference travel (€2,000 per year) and computer resources will also be available. These positions are pensionable.
-
-
-
 
 
 
