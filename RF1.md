@@ -23,16 +23,17 @@ The expected starting date of the position is **January 2nd 2022** (negotiable).
 
 # Qualifications
 
-Applicants should have obtained by the starting date a PhD in a relevant field, such as (but not limited to): computer science (engineering, physics also welcome), political science, economics. Prior Experience as a Postdoc is expected, but talented PhD students will also be considered.
+Applicants should have obtained by the starting date a PhD in a relevant field, such as (but not limited to): computer science, engineering, physics, or the social sciences. The applicant should have experience and publications in the domain of time series analysis or more generally of pattern recognition. 
 
 The following skills are of particular interest:
 
-- Excellent knowledge of R and Python (highly desirable)
-- Advanced knowledge of econometrics (highly desirable)
-- Advanced knowledge of machine learning (highly desirable)
-- Experience with programming (highly desirable)
+- Excellent knowledge of R and/or Python (expected)
+- Advanced knowledge of machine learning (expected)
+- Experience with programming (expected)
+- Advanced knowledge of econometrics (desirable)
+- Familiarity with MLOps (highly desirable)
 - Familiarity with Social Sciences (desirable)
-- Familiarity with MLOps (desirable)
+
 
 
 # Work Environment
