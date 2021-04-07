@@ -14,7 +14,7 @@ The holder of the position will contribute to a project that uses machine-learni
 
 
 
-In this post, you will work in an exciting environment alongside a highly creative and motivated team, to acquire and analyse time series data from pre-conflict environments (both interstate and civil war), and apply recent machine learning techniques to forecasting the onset of these events.
+The post-holder will work in an exciting environment alongside a highly creative and motivated team, to acquire and analyse time series data from pre-conflict environments (both interstate and civil war), and apply recent machine learning techniques to forecasting the onset of these events.
 
 The expected starting date of the position is **January 2024** (negotiable).
 
