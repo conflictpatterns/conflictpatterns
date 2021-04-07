@@ -46,7 +46,7 @@ Trinity is an equal opportunities employer and is committed to employment polici
 # Duration and salary
 This project is funded by  ERC Consolidator Grant PaCE (101002240) (2022-26) and is hosted at the Department of Political Science at Trinity College Dublin.
 
-We offer a Specified Purpose Contract (expected duration 3 years). Successful applicants will be hired at a salary in line with their experience. Salaries of postdoctoral researchers follow the [Irish University Associations salary scale](https://www.iua.ie/for-researchers/researcher-salary-scales-career-framework/#), with an expected gross salary of €38,632-55,811 in the first year (salary commensurate with experience and qualifications) and one point increment per year from thereafter. 
+We offer a Specified Purpose Contract (expected duration 3 years). Successful applicants will be hired at a salary in line with their experience. Salaries of postdoctoral researchers follow the [Irish University Associations salary scale](https://www.iua.ie/for-researchers/researcher-salary-scales-career-framework/#), with an expected gross salary ranging between €38,632 and 55,811 in the first year (salary will be commensurate with experience and qualifications) and one point increment per year from thereafter. 
 
 Funds for conference travel (€2,000 per year) and computer resources will also be available. These positions are pensionable.
 
