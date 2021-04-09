@@ -54,7 +54,7 @@ The studentship will be supervised by Professor [Thomas Chadefaux](http://www.th
 
 This project is funded by the PaCE ERC Consolidator Grant 101002240 (2022-26) and is hosted at the Department of Political Science at Trinity College Dublin.
 
-Students will receive an annual stipend of €18,500 for four years. Continuation on the PhD register  is conditional on the candidate's successful progression through the PhD requirements. The team member's stipend will be conditional on satisfactory performance in the team. 
+Students will receive an annual stipend of €18,300 for four years. Continuation on the PhD register  is conditional on the candidate's successful progression through the PhD requirements. The team member's stipend will be conditional on satisfactory performance in the team. 
 
 
 
