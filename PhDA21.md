@@ -12,7 +12,7 @@ September 2021
 
 # Standard Duties and Responsibilities
 
-The holder of the position is to pursue a project that uses machine-learning methods to forecast interstate and civil wars. In particular, the team member will, among other:
+The holder of the position is to pursue a project that uses machine-learning methods to forecast interstate and civil wars. In particular, the team member will:
 
 -   Acquire and process time series data from finance, diplomatic cables, and newspapers 
 - Apply Machine Learning methods using Python/R 

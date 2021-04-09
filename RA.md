@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
+title:  Research assistant in Conflict Research with Focus on Forecasting and Machine Learning
 ---
 
 Are there recurring patterns in the escalation and emergence of wars? The idea that history may repeat itself is old. But recent advances overcoming methodological and data barriers present an opportunity to identify these recurrences empirically and to examine whether these patterns can be classified to improve forecasts and inform theories of conflict. In this project, we will combine new methods and novel data on conflict from finance, diplomatic cables, and newspapers, to extract typical pre war motifs. Just as DNA sequencing has been critical to medical diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of conflict (more details at [forecastlab.org](http://www.forecastlab.org)).
@@ -12,14 +12,11 @@ September 2021
 
 # Standard Duties and Responsibilities
 
-The holder of the position is to pursue a project that uses machine-learning methods to forecast interstate and civil wars. In particular, the team member will, among other:
+The holder of the position is to pursue a project that uses machine-learning methods to forecast interstate and civil wars. In particular, the team member will:
 
--   Acquire and process time series data from finance, diplomatic cables, and newspapers 
-- Apply Machine Learning methods using Python/R 
-- Work on the classification of temporal patterns 
+-   Acquire and process time series data from finance, diplomatic cables, and news reports 
 - Contribute to the development of an early warning system for conflict 
--   Contribute to the growth of the methodological and substantive expertise of the team
--   Participate in the team's publications
+- Participate in the team's publications (to be determined)
 
 
 # Person Specification
@@ -30,31 +27,10 @@ A strong undergraduate degree or Masters in computer science (engineering, physi
 
 ## Knowledge & Experience
 
--   Excellent knowledge of R and/or Python (highly desirable)
+-   Knowledge of R and/or Python (highly desirable)
 -   Background in statistics and/or econometrics (highly desirable)
--   Knowledge of machine learning (desirable)
--   Familiarity with Social Sciences (desirable)
--   Familiarity with the development of statistical packages and deployment on github (desirable)
+-   Familiarity with Github (desirable)
 
-
-## Skills & Competencies
-
--   Ability to write clearly and concisely
--   Enthusiasm to acquire expertise in new fields and methods
--   Enthusiasm to share expertise with other team members
--   Enthusiasm for communication with a broader audience
-
-
-# Supervision
-
-The studentship will be supervised by Professor [Thomas Chadefaux](http://www.thomaschadefaux.com). Students will be enrolled in the [Department of Political Science](https://www.tcd.ie/Political_Science/)  [PhD Programme](https://www.tcd.ie/Political_Science/postgraduate/phd-programme/)  at [Trinity College Dublin](https://www.tcd.ie).
-
-
-# Funding
-
-This project is funded by the PaCE ERC Consolidator Grant 101002240 (2022-26) and is hosted at the Department of Political Science at Trinity College Dublin.
-
-Students will receive an annual stipend of €18,300 for four years. Continuation on the PhD register  is conditional on the candidate's successful progression through the PhD requirements. The team member's stipend will be conditional on satisfactory performance in the team. 
 
 
 
@@ -70,13 +46,9 @@ As a first step, candidates should submit to [thomas.chadefaux@tcd.ie](mailto:th
 
 -   a cover letter addressing why this project interests you and what you will bring to it. Be sure to outline your experience with statistics and computational methods.
 -   a full curriculum vitae
--   links to any supporting material; e.g. thesis, code repositories, preprints, articles in the media, etc.
-
-If requested, the candidate will then be asked to submit a [formal application to the PhD Programme](https://www.tcd.ie/Political_Science/postgraduate/phd-programme/admission/index.php).
+-   links to any supporting material
 
 Selection will begin in April 2021 and the position will remain open until filled.
-
-If you are a Chinese student and would like to apply to the scholarships from the China Scholarship Council please contact [Thomas](mailto:thomas.chadefaux@tcd.ie) before Jan 31, 2022.
 
 For any query, please contact: Professor Thomas Chadefaux [thomas.chadefaux@tcd.ie](mailto:thomas.chadefaux@tcd.ie)
 
